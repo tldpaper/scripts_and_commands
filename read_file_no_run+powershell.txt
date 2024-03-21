@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -Command "& {Get-Content -Path .\script.zip}"
